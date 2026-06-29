@@ -7,7 +7,7 @@
   "response": [
     {
       "category_name": "Sports Channels",
-      "name": "SA VS CA",
+      "name": "BR VS JP",
       "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782814343~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBiTUAMPM7H8XaysPWCodnr2xhe0AgwdQmXZYDy_s7feiK-0ZRH8qL3jzm0r1yJL-vSIzKH5obTwyUuRRybAN0E",
       "headers": {
         "Host": "prod-cdn01-live.toffeelive.com",
@@ -20,7 +20,7 @@
     },
     {
 	"category_name": "Sports Channels",
-      "name": "SA VS CA",
+      "name": "GR VS PA",
       "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782758406~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcGp6Db-BKOjy9fF4Be8RuHRm0KT5wa4d3yi9SF0KVaUfHzWdk9C7zr_hsJUkp6zt5amWwP0GnHF7zzMnEPdHYN",
       "headers": {
         "Host": "prod-cdn01-live.toffeelive.com",
@@ -33,7 +33,7 @@
     },
     {
 	"category_name": "Sports Channels",
-      "name": "SA VS CA",
+      "name": "NL VS MR",
       "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782814375~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclDlI3cdXSjXqcQL4FGtNWVbKNwIi0s-kPwxRM5BNb6XeMII2gbCyrb5E5qtpOIhXxVHyfpf0JtgH6tsXXHb47IP",
       "headers": {
         "Host": "prod-cdn01-live.toffeelive.com",
@@ -45,20 +45,7 @@
       "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/c43cc350-c70a-403b-89ff-f6e09d156db5.png"
     },
     {
-	"category_name": "Sports Channels",
-      "name": "SA VS CA",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782758406~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcGp6Db-BKOjy9fF4Be8RuHRm0KT5wa4d3yi9SF0KVaUfHzWdk9C7zr_hsJUkp6zt5amWwP0GnHF7zzMnEPdHYN",
-      "headers": {
-        "Host": "prod-cdn01-live.toffeelive.com",
-        "cookie": "",
-        "user-agent": "Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-        "client-api-header": "null",
-        "accept-encoding": "gzip"
-      },
-      "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/c43cc350-c70a-403b-89ff-f6e09d156db5.png"
-    },
-    {
-      "category_name": "LIVE",
+	  "category_name": "LIVE",
       "name": "TOFFEE Sports VIP",
       "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
       "headers": {
